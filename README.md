@@ -1,0 +1,2 @@
+# micrograd-from-scratch
+MICROGRAD
